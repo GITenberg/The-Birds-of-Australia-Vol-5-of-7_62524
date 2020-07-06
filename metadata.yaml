@@ -1,0 +1,25 @@
+_repo: The-Birds-of-Australia-Vol-5-of-7_62524
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gould, John
+    birthdate: 1804
+    deathdate: 1881
+    gutenberg_agent_id: '7467'
+    url: http://www.gutenberg.org/2009/agents/7467
+    wikipedia: https://en.wikipedia.org/wiki/John_Gould
+description: ''
+gutenberg_issued: '2020-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Australia -- Pictorial works'
+- !lcc 'QL'
+- GITenberg
+title: The Birds of Australia, Vol. 5 of 7
+url: http://www.gutenberg.org/ebooks/62524
